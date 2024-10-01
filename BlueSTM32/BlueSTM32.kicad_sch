@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "0813bd8c-34b7-4d98-8a6f-d3ea444f1dbc")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 172.72 69.85)
+		(size 34.29 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5703ba8c-9bf7-43c8-8291-c86dc9ff00b9")
+		(property "Sheetname" "Sensors"
+			(at 172.72 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensors.kicad_sch"
+			(at 172.72 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlueSTM32"
+				(path "/0813bd8c-34b7-4d98-8a6f-d3ea444f1dbc"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.27 69.85)
+		(size 34.29 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a1bafb76-f1b9-48ec-a40a-140a7e5f1021")
+		(property "Sheetname" "Power"
+			(at 128.27 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 128.27 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlueSTM32"
+				(path "/0813bd8c-34b7-4d98-8a6f-d3ea444f1dbc"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 69.85)
+		(size 34.29 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d60c4563-988a-402c-8446-26bba05170b9")
+		(property "Sheetname" "Microcontroller"
+			(at 80.01 69.1384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontroller.kicad_sch"
+			(at 80.01 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BlueSTM32"
+				(path "/0813bd8c-34b7-4d98-8a6f-d3ea444f1dbc"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
