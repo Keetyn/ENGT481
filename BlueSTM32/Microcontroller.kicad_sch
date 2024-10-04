@@ -6079,7 +6079,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "55c1858f-8a85-449c-9099-554cce94e56b")
-		(property "Reference" "X4"
+		(property "Reference" "X1"
 			(at 168.91 130.81 0)
 			(effects
 				(font
@@ -6137,7 +6137,7 @@
 		(instances
 			(project "BlueSTM32"
 				(path "/0813bd8c-34b7-4d98-8a6f-d3ea444f1dbc/d60c4563-988a-402c-8446-26bba05170b9"
-					(reference "X4")
+					(reference "X1")
 					(unit 1)
 				)
 			)
@@ -7875,7 +7875,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff73dc9e-4a1b-4551-a286-482a4951757e")
-		(property "Reference" "X3"
+		(property "Reference" "X2"
 			(at 144.78 149.86 0)
 			(effects
 				(font
@@ -7927,7 +7927,7 @@
 		(instances
 			(project "BlueSTM32"
 				(path "/0813bd8c-34b7-4d98-8a6f-d3ea444f1dbc/d60c4563-988a-402c-8446-26bba05170b9"
-					(reference "X3")
+					(reference "X2")
 					(unit 1)
 				)
 			)
