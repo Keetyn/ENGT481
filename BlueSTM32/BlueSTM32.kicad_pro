@@ -58,7 +58,22 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "copper_edge_clearance|167050000|106200000|d1c4d087-dba7-4486-a3e7-54e32296cde5|bb362680-e290-4e64-8112-6063ac2382c9",
+        "copper_edge_clearance|167850000|106200000|d1c4d087-dba7-4486-a3e7-54e32296cde5|fd354b70-9644-43fb-9538-5c91ca05b020",
+        "copper_edge_clearance|168350000|106200000|d1c4d087-dba7-4486-a3e7-54e32296cde5|0daf69ff-55c2-4a28-9aba-f51267e9deac",
+        "copper_edge_clearance|168850000|106200000|d1c4d087-dba7-4486-a3e7-54e32296cde5|e3e4eaea-ecff-4949-a5b9-a492170dbea1",
+        "copper_edge_clearance|169350000|106200000|d1c4d087-dba7-4486-a3e7-54e32296cde5|2ec0d6e3-7ae6-41a5-a155-684620d36696",
+        "copper_edge_clearance|169850000|106200000|d1c4d087-dba7-4486-a3e7-54e32296cde5|085b7679-2003-4d84-9e72-bca5aa7532a6",
+        "copper_edge_clearance|170350000|106200000|d1c4d087-dba7-4486-a3e7-54e32296cde5|ec546400-0ffb-4266-ac40-c86bb6ba9e0b",
+        "copper_edge_clearance|170850000|106200000|d1c4d087-dba7-4486-a3e7-54e32296cde5|fdef20df-d392-4770-9436-e948db9be4fa",
+        "copper_edge_clearance|171350000|106200000|d1c4d087-dba7-4486-a3e7-54e32296cde5|0c46a436-8c46-47f9-971f-6bd9f0e158b2",
+        "copper_edge_clearance|171850000|106200000|d1c4d087-dba7-4486-a3e7-54e32296cde5|e5215839-1441-4812-90b2-7008a0221f03",
+        "copper_edge_clearance|172650000|106200000|d1c4d087-dba7-4486-a3e7-54e32296cde5|73cf0df9-dacc-4127-a649-40297a51137e",
+        "copper_edge_clearance|173450000|106200000|d1c4d087-dba7-4486-a3e7-54e32296cde5|57219b1a-b009-49ef-8242-ad5b23237ee4",
+        "lib_footprint_mismatch|175590000|125600000|46097f61-a1b7-4f4c-8971-e3cbbcbdfc4e|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|184960000|126710000|53308ee2-8cf3-41a3-b0c8-400987ebaa34|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -530,7 +545,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
